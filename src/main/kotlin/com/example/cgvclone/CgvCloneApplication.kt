@@ -7,6 +7,5 @@ import org.springframework.boot.runApplication
 class CgvCloneApplication
 
 fun main(args: Array<String>) {
-    //테스트 주석 추가
     runApplication<CgvCloneApplication>(*args)
 }

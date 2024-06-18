@@ -8,5 +8,6 @@ class CgvCloneApplication
 
 fun main(args: Array<String>) {
     //테스트 주석 추가
+    // zzㅋㅋ
     runApplication<CgvCloneApplication>(*args)
 }
